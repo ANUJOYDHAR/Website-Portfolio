@@ -228,9 +228,9 @@ img {
 }
 .home__img {
 	position: absolute;
-	right: 0;
-	bottom: 0;
-	width: 295px;
+	right: 47px;
+	bottom: 5px;
+	width: 255px;
 }
 
 /*BUTTONS*/
