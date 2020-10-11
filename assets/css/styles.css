@@ -229,7 +229,7 @@ img {
 .home__img {
 	margin-left:auto;
 	margin-right:auto;
-	width:255px;
+	width:auto;
 }
 
 /*BUTTONS*/
