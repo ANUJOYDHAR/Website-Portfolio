@@ -368,7 +368,7 @@ img {
 }
 .work__img img {
 	transition: 1s;
-	max-width:90%;
+	max-width:100%;
 	cursor: pointer;
 }
 .work__img img:hover {
