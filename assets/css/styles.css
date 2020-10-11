@@ -227,10 +227,9 @@ img {
 	color: var(--first-color);
 }
 .home__img {
-	position: absolute;
-	right: 47px;
-	bottom: 5px;
-	width: 255px;
+	margin-left:auto;
+	margin-right:auto;
+	width:255px;
 }
 
 /*BUTTONS*/
@@ -276,6 +275,8 @@ img {
 }
 .about__img img {
 	width: 200px;
+	margin-left:auto;
+	margin-right:auto;
 	border-radius: 0.5rem;
 }
 
